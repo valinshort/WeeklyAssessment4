@@ -3,7 +3,7 @@ package com.company.Question_1;
 public class Main {
 
    /*
-    YOUR NAME HERE! - No really put your name here so we know who this belongs to when we grade it <3
+   Valin Short - No really put your name here so we know who this belongs to when we grade it <3
      */
 
     public static void main(String[] args) {

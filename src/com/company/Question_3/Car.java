@@ -6,6 +6,12 @@ public class Car {
     private String model;
     private String color;
 
+
+    public void showCar(){
+
+
+    }
+
     public Car(String make, String model, String color) {
         this.make = make;
         this.model = model;
@@ -35,4 +41,6 @@ public class Car {
     public void setColor(String color) {
         this.color = color;
     }
+
+
 }
